@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Data Science**
 
-- 🌱 I’m interested in **Artificial Intelligence**
+- 🌱 I’m interested in **Artificial Intelligence & Machine Learning**
 
 - 📫 How to reach me **lakitha1999@gmail.com**
 
