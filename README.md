@@ -7,7 +7,7 @@
 
 - 🌱 I’m interested in **Artificial Intelligence & Machine Learning**
 
-- 📫 How to reach me **lakitha1999@gmail.com**
+- 📫 How to reach me **lakithadinuwan1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
