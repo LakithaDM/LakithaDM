@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakitha Dinuwan Madanayake</h1>
-<h3 align="center">I am a Artificial Intelligence MSc Student</h3>
+<h3 align="center">I am an Artificial Intelligence MSc Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakithadm" alt="lakithadm" /></a> </p>
 
-- 🔭 I’m currently studying **Data Science**
+- 🔭 I’m currently studying **Artificial Intelligence**
 
 - 🌱 I’m interested in **Artificial Intelligence & Machine Learning**
 
